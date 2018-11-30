@@ -10,7 +10,7 @@ codes for ["Instance Level Facial Attributes Transfer with Geometry-Aware Flow"]
 download these datasets and put them under `celeba_data`:
 * [celeba](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 * [CelebA-HQ](https://drive.google.com/open?id=0B4qLcYyJmiz0TXY1NG02bzZVRGs)
-download the [68 landmark annotation](https://drive.google.com/open?id=1SoHijOvjr9aL0wZUO-vJ_fCk6zo9pg4k) of CelebA dataset.
+* download the [68 landmark annotation](https://drive.google.com/open?id=1SoHijOvjr9aL0wZUO-vJ_fCk6zo9pg4k) of CelebA dataset.
 
 # Training
 You can use different training options in `options.py`. Here is an example:
