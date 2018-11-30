@@ -4,7 +4,7 @@ import numpy as np
 
 ROOT = pathlib.Path("../celeba_data")
 DATA_ROOT = str(ROOT / "img_align_celeba")
-ANNO_ROOT = str(ROOT / "Anno" / "new_attr_celeba.txt")
+ANNO_ROOT = str(ROOT / "Anno" / "list_attr_celeba.txt")
 EVAL_ROOT = str(ROOT / 'Anno' / "list_eval_partition.txt")
 LANDMARK_ROOT = str(ROOT/'all_landmark.json')
 CelebA_HQ_ROOT = str(ROOT/'CelebA-HQ')
